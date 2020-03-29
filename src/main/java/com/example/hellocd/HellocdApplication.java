@@ -15,7 +15,7 @@ public class HellocdApplication {
 
 	@RequestMapping("/")
 	String home() {
-		return "Hello Continuous Delivery and Integration!";
+		return "!!!Hello Continuous Delivery and Integration!!!!";
 	}
 
 	public static void main(String[] args) {
